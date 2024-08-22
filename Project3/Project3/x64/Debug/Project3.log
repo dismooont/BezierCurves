@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\dismooont\source\repos\Project3\Window.h(7,7): warning C4099: GLFWwindow: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+  (компиляция исходного файла "Source.cpp")
+  C:\Users\dismooont\Desktop\MyOpenGl\include\GLFW\glfw3.h(1403,16):
+   см. объявление "GLFWwindow"
+  
+  Project3.vcxproj -> C:\Users\dismooont\source\repos\Project3\x64\Debug\Project3.exe
