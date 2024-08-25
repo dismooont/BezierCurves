@@ -1,5 +1,6 @@
 #ifndef WINDOW_EVENTS_H_
 #define WINDOW_EVENTS_H_
+#define GLEW_STATIC
 
 #include <glew.h>
 #include "Window.h"

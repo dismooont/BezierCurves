@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\dismooont\Desktop\MyOpenGl\include\GLEW;C:\Users\dismooont\Desktop\MyOpenGl\include\GLFW;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\dismooont\Desktop\MyOpenGl\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\dismooont\source\repos\Project3\glew-2.1.0-win32 %281%29\glew-2.1.0\include\GL;C:\Users\dismooont\Desktop\MyOpenGl\include\GLFW;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\dismooont\source\repos\Project3\glew-2.1.0-win32 %281%29\glew-2.1.0\lib\Release\x64;C:\Users\dismooont\Desktop\MyOpenGl\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -133,11 +133,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Events.cpp" />
+    <ClCompile Include="Shaders.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Events.h" />
+    <ClInclude Include="Shaders.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
   <ItemGroup>

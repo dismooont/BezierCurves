@@ -1,3 +1,4 @@
+#define GLEW_STATIC
 #include "Events.h"
 #include <glfw3.h>
 #include <string.h>
@@ -83,7 +84,6 @@ bool Events::jclicked(int button) {
 	int index = _MOUSE_BUTTONS + button;
 	return _keys[index] && _frames[index] == _current;
 }
-
 void Events::pullEvents() {
 	_current++;
 	deltaX = 0.0f;
