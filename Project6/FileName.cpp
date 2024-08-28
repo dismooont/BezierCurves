@@ -9,7 +9,7 @@ int main(void)
     InitWindow(width, height, "raylib [core] example - basic window");
     SetWindowState(0);
     
-    Texture2D Texture = LoadTexture("C:\\Users\\dismooont\\Pictures\\icons8-target-30.png");
+    Texture2D Texture = LoadTexture("res\\icons8-target-30.png");
 
     SetTargetFPS(75);
     
