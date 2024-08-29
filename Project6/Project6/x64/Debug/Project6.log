@@ -1,6 +1,6 @@
 ﻿  Bullet.cpp
-C:\Users\dismooont\Desktop\BezierCurves\Project6\Bullet.cpp(25,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-C:\Users\dismooont\Desktop\BezierCurves\Project6\Bullet.cpp(25,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\dismooont\Desktop\BezierCurves\Project6\Bullet.cpp(34,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\dismooont\Desktop\BezierCurves\Project6\Bullet.cpp(34,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
   Project6.vcxproj -> C:\Users\dismooont\Desktop\BezierCurves\Project6\x64\Debug\Project6.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.

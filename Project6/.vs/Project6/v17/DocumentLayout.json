@@ -41,8 +41,7 @@
               "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-29T06:48:31.887Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "RelativeToolTip": "Bullet.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-29T08:26:06.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T08:26:06.14Z"
             },
             {
               "$type": "Document",
@@ -67,8 +65,7 @@
               "RelativeToolTip": "..\\..\\..\\Downloads\\vcpkg\\installed\\x64-windows\\include\\raylib.h",
               "ViewState": "AQIAAFQAAAAAAAAAAAAowMsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T16:14:27.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T16:14:27.858Z"
             },
             {
               "$type": "Document",
@@ -80,8 +77,7 @@
               "RelativeToolTip": "FileName.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-27T08:13:28.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T08:13:28.702Z"
             },
             {
               "$type": "Document",
@@ -91,7 +87,7 @@
               "RelativeDocumentMoniker": "Bullet.cpp",
               "ToolTip": "C:\\Users\\dismooont\\Desktop\\BezierCurves\\Project6\\Bullet.cpp",
               "RelativeToolTip": "Bullet.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-29T06:05:36.032Z",
               "EditorCaption": ""
