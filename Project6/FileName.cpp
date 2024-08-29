@@ -13,7 +13,9 @@ int main(void)
     SetWindowState(0);
     
     Texture2D Texture = LoadTexture("res\\icons8-target-30.png");
+
     Texture2D BulletTexture = LoadTexture("res\\icons8-target-30.png");
+
 
     SetTargetFPS(75);
     
