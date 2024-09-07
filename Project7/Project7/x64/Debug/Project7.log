@@ -1,4 +1,8 @@
-﻿  Source.cpp
-  Project7.vcxproj -> C:\Users\dismooont\source\repos\Project7\x64\Debug\Project7.exe
+﻿  CoordS.cpp
+C:\Users\dismooont\Desktop\BezierCurves\Project7\CoordS.cpp(9,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dismooont\Desktop\BezierCurves\Project7\CoordS.cpp(10,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dismooont\Desktop\BezierCurves\Project7\CoordS.cpp(11,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\dismooont\Desktop\BezierCurves\Project7\CoordS.cpp(12,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Project7.vcxproj -> C:\Users\dismooont\Desktop\BezierCurves\Project7\x64\Debug\Project7.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.

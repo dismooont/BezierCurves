@@ -1,6 +1,7 @@
 #include <raylib.h>
 #include "Button.h"
 #include "Circle.h"
+#include "CoordS.h"
 
 int main() {
 	SetConfigFlags(FLAG_WINDOW_RESIZABLE);
@@ -13,6 +14,8 @@ int main() {
 	Vector2 vecEmm;
 	vecEmm.x = 400;
 	vecEmm.y = 400;
+
+	CoordS coords(200, 200, 200, 200);
 
 	Circle mycirle(vecEmm, 200);
 	int iii = 0;
@@ -31,6 +34,7 @@ int main() {
 			but.ButtonColor = RED;
 		}
 		but.IsCrossed();
+		coords.ShowCoordS();
 
 		EndDrawing();
 	}
