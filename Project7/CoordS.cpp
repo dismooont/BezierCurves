@@ -15,7 +15,7 @@ CoordS::CoordS(int XLen, int YLen, int XSize, int YSize)
 void CoordS::ShowCoordS()
 {
 	DrawRectangleLines(X, Y, XSize1, YSize1, BLACK);
-	for (int i = 0; i < XSize1; i += 20) {
+	for (int i = 20; i < XSize1; i += 20) {
 		DrawLine(X + i, Y, X + i,Y + YSize1, BLUE);
 	}
 	for (int i = 0; i < YSize1; i += 20) {
